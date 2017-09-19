@@ -1,0 +1,7 @@
+.item {
+	margin: 50px 0px;
+}
+
+.row, .item > .col-xs-12 > a {
+	margin-top: 15px;
+}
